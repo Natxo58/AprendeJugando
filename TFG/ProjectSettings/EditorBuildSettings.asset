@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Principal.unity
+    guid: 4bf452d1481d7084ab6bf80b5e45eb94
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Emociones nv1.unity
+    guid: 9826608f5cb5b524299e6ef0b1ff2ed9
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Manzanas.unity
+    guid: c6ba9697c4c92044b96f7617e31bb028
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Reflejos.unity
+    guid: 4ce1e0dac1d352e469d63f981973bd08
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Memoria.unity
+    guid: f6bb5a97e46249e4ebbff8e786663053
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos Academicos.unity
+    guid: ac655aa486763ae4fba554b43c6ce39b
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos Fisicos.unity
+    guid: b529414e508c40447a90bffa6337ee0f
+  - enabled: 1
+    path: Assets/Scenes/Minijuegos Sociales.unity
+    guid: 415b5c2e66594d741be19d78e20ce924
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Puzzle.unity
+    guid: 305453667db53754787d702f54440291
+  - enabled: 1
+    path: Assets/Scenes/Seleccion Minijuego.unity
+    guid: 9df6943445152fa41aa895a1bca693d4
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Conversacion.unity
+    guid: 0bbffc3e690d4bb4b9fa22bdca6374eb
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Contar.unity
+    guid: bdba439a173c57b44bb7caf316e379ec
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Laberinto.unity
+    guid: 43e5d349fadafaa4c9d03966304df821
+  - enabled: 1
+    path: Assets/Scenes/Opciones.unity
+    guid: ae3b6c14feda51b41922cd779489b939
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Colorear.unity
+    guid: b0acf3513a6bf8c4091a2749f47cd847
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: e61bbb715d571724f829fd659d1439ad
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Ordenar.unity
+    guid: db4e0b2e9bcc13e42a89de011beed87f
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Figuras.unity
+    guid: 1022122c0f030ba4e80bd16ec0b9b6f8
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Objetos.unity
+    guid: cee2ab4ade8265548ad470e5f1d18024
+  - enabled: 1
+    path: Assets/Scenes/Minijuego Empatia.unity
+    guid: 11743046d7b3c984da5db37451c78ba5
+  m_configObjects: {}
