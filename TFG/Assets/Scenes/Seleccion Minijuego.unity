@@ -211,7 +211,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &66944156
 RectTransform:
   m_ObjectHideFlags: 0
@@ -250,7 +250,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 0ee6425d88636b543adab2d1707e49c4, type: 3}
+    m_Font: {fileID: 12800000, guid: aea412aed1af79b439e2809e81f866c4, type: 3}
     m_FontSize: 77
     m_FontStyle: 0
     m_BestFit: 0
@@ -262,7 +262,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xBFEstudiamos?"
+  m_Text: "\xBFCalculamos?"
 --- !u!222 &66944158
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2218,7 +2218,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &731047851
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2257,7 +2257,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 0ee6425d88636b543adab2d1707e49c4, type: 3}
+    m_Font: {fileID: 12800000, guid: aea412aed1af79b439e2809e81f866c4, type: 3}
     m_FontSize: 77
     m_FontStyle: 0
     m_BestFit: 0
@@ -2269,7 +2269,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xBFSocializamos?"
+  m_Text: "\xBFHablamos?"
 --- !u!222 &731047853
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3708,7 +3708,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 0ee6425d88636b543adab2d1707e49c4, type: 3}
+    m_Font: {fileID: 12800000, guid: aea412aed1af79b439e2809e81f866c4, type: 3}
     m_FontSize: 77
     m_FontStyle: 0
     m_BestFit: 0
@@ -3720,7 +3720,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xBFEjercitamos?"
+  m_Text: "\xBFPracticamos?"
 --- !u!222 &1284438197
 CanvasRenderer:
   m_ObjectHideFlags: 0
